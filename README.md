@@ -32,12 +32,7 @@ This project is a responsive e-commerce website that includes features like prod
 - Users can browse products, add them to the cart, and proceed to checkout.
 - Admin can manage products and view orders.
 
-## Screenshots
-![Product Listings](screenshots/product_listings.png)
-![Shopping Cart](screenshots/shopping_cart.png)
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries, please contact [risha.rout1607@gmail.com](mailto:risha.rout1607@gmail.com).
